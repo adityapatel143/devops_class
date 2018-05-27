@@ -2,4 +2,8 @@ name = aditya
 
 email = aditya@gmail.com
 
-contact = 1234567890
+contact = a234567890
+
+branch = ece
+
+address = abc
