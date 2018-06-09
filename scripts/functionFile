@@ -1,0 +1,10 @@
+todayDate()
+{
+	echo "curent date and time is : $(date)"
+}
+
+activeUsers()
+{
+	echo "Below are the active users"
+	w
+}
