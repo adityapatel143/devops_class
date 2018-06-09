@@ -36,4 +36,14 @@ do
 	echo "This operating system is : $OSNAME"
 done
 
+echo -e "\n*******************************"
+echo -e "creating files using for loop\n"
 
+echo -e "file is created in dir: /tmp/forLoopLearning/\n"
+for FILENAME in {1..5}
+do
+	touch /tmp/forLoopLearning/"$FILENAME".txt
+done
+
+echo -e "Output :\n"
+ls -l /tmp/forLoopLearning/
