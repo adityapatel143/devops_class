@@ -1,0 +1,13 @@
+mango
+strawberry
+banana
+watermelon
+mango
+apple
+apple
+strawberry
+banana
+watermelon
+pineapple
+applepine
+
